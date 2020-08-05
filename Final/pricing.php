@@ -3,7 +3,7 @@
     <head>
         <link rel="stylesheet" href="lawnstylesheet.css">
         <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>PRICING</title>
     </head>
 <body class = "Container">
