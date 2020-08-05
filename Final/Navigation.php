@@ -2,7 +2,7 @@
 <html>
 <head>
         <link rel="stylesheet" href="lawnstylesheet.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
         <title>Navigation</title>
 <div class = "bar">
 <ul>
