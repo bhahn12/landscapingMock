@@ -28,8 +28,3 @@
     </footer>
     </body>
 </html>
-
-
-<!-- have drop down menu, about us, contact us, lawn table w pricing, calander w timeslots
-make sure once a sot is filled its greyed out, other services in table?, table should link
-back to calander when choosing price/size.  -->

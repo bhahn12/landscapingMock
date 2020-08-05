@@ -96,6 +96,13 @@ h2 {
     background-size: cover;
 }
 
+.newFont{
+    color: white;
+    text-shadow: black 1px 1px;
+    font-size: 25px;
+    text-align: center;
+}
+
 .aboutText{
     border: 1px solid black;
     padding: 30px;
