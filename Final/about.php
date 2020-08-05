@@ -6,7 +6,7 @@
         <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
         <script src="http://malsup.github.io/jquery.cycle2.js"></script>
         <script src="http://malsup.github.io/jquery.cycle2.center.js"></script>
-        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
     <header>
