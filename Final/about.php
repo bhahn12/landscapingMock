@@ -22,7 +22,7 @@
             <img src = "https://www.lawnstarter.com/blog/wp-content/uploads/2019/09/rsz_fresh-cut-lawn-pixabay.jpg" width = 500 height = 400>
             <img src = "https://mowcow.com/wp-content/uploads/2018/11/fresh-cut-lawn.jpg"width = 500 height = 400>
             <img src = "https://i1.ypcdn.com/blob/e1bc7ac0a03b4e233d433c7c33325fbf47b86398"width = 500 height = 400>
-            <img src = "https://lh3.googleusercontent.com/proxy/t5JTsLmV2XjA1Q_Ny8FTioYYjXFyn4gGRBiwFLklqZyqPxa305ueTJnoM5u15vaYwRM0BinfRiFKOrt48VhLrVg4--hVkV1EMr3_SeliYPjBdb6igUiyhtj9rwkGCn1mYnCXRA"width = 500 height = 400>
+            <img src = "https://www.customlawn.com/wp-content/uploads/2017/03/custom-lawn-3B17-professionally-mowed-lawn.jpg"width = 500 height = 400>
         
     </div>
 
